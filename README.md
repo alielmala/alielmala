@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Electrical and Computer Engineering
-- 🌱 I also study external couurses online to get more knowledge and expreince in the software field.
+- 🌱 I also study external online courses to get more knowledge and expreince in the software field.
 
 </div>
 
