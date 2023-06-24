@@ -1,8 +1,8 @@
 ### Hello World 👋
 <h1> I am Ali </h1>
-<h3>Front-end developer. problem solver.
-</h3>
-<h3> Upwork freelancer. Check my profile at <a href="https://www.upwork.com/freelancers/alielmala0">alielmala0</a> </h3>
+<h3>Front-end developer. competitive programmer.</h3>
+<h3>Codeforces account: <a href="https://codeforces.com/profile/AliElmala_">AliElmala_</a></h3>
+<h3> Front-end Developer at Upwork freelancer. Check my profile at <a href="https://www.upwork.com/freelancers/alielmala0">alielmala0</a> </h3>
 
 Here are some ideas to get you started:
 
